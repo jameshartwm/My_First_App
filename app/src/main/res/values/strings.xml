@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Poo rater</string>
+    <string name="intro">Hello! I hope you\'re sitting comfortably! Please rate your &#128169; below:</string>
+    <string name="poo1">&#128169;\n 1/10</string>
+    <string name="poo2">&#128169;\n 2/10</string>
+    <string name="poo3">&#128169;\n 3/10</string>
+    <string name="poo4">&#128169;\n 4/10</string>
+    <string name="poo5">&#128169;\n 5/10</string>
+    <string name="poo6">&#128169;\n 6/10</string>
+    <string name="poo7">&#128169;\n 7/10</string>
+    <string name="poo8">&#128169;\n 8/10</string>
+    <string name="poo9">&#128169;\n 9/10</string>
+    <string name="poo10">&#128169;\n 10/10</string>
+</resources>
